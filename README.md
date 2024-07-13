@@ -1,6 +1,5 @@
 # Customer-Segmentation
-#Project Idea: 
-To perform data analysis on the customer transaction data.
+
 This project involves analyzing customer transaction data, which involves analyzing the customer purchases.
 Using data analysis techniques this dataset is analyzed in excel.
 Things analyzed in this project are Data Cleaning, Trend Analysis,  A Particular Persons Analysis, Purchase Modes and Customer Analysis. 
